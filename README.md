@@ -30,7 +30,7 @@ ___
 
 ## Example 🎮
 <br>
-<img height="50%" alt="Gameimg" src="Assets/exampleimg.png"> 
+<img width="100%" height="50%" alt="Gameimg" src="Assets/exampleimg.png"> 
 
 
 
