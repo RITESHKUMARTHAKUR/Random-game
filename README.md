@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/RITESH-THAKUR-brightgreen)
 
 ## Discription 🗄️
-Hyy there, this is a Guess the Number Game 🎮 😄<br>
+Hey there, this is a Guess the Number Game 🎮 😄<br>
 Built in Python <img align="center" alt="Python logo" width="22px" src="Assets/Python.png"><br>
 **Guess the Same Number as the Program Chooses 🎮** <br>
 
